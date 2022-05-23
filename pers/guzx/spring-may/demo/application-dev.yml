@@ -4,6 +4,7 @@ base:
     url: jdbc:mysql://${base.ip}:3306/demo?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true
     username: ENC(guzx)
     password: ENC(970712)
+  name: guzx
 spring:
 #  mvc:
 #    pathmatch:
